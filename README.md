@@ -1,14 +1,19 @@
 # My-Visualization-Principles
 
+Qualities of Good Visualization:
+   - Easy to understand and Memorable
+   - Carries meaningful message
+   - Clean and visually appealing
+
 1. Color choice
    - CVD friendly
-   - sequential, divergent, categorical, highlight, alert
+   - color schemes: sequential, divergent, categorical, highlight, alert
    
 2. Font
-   - Style: Serif and Sanserif combination
-   - Bold/Underline/Italic
-   - All caps or not?
-   - use of subtitle
+   - Style: Serif and Sanserif combination (title and subtitle)
+   - Bold/Underline/Italic - don't use in combination.
+   - All caps or not? almost always no.
+   - Use of subtitle and caption
 
 3. Numbers
   - Percentages vs Absolute
@@ -21,4 +26,23 @@
   - setting baseline as zero or not
   - charting multiple time series: max 4
   - direct labeling instead of legends
+  - use lighter or different color for projection
   
+5. Bar Chart
+   - no zebra pattern of color -> use lighted to darkest
+   - No labeling at angle
+   - prefer using direct labeling rather than using legends
+   - always use zero baseline
+   - use both absolute quantities and percentage changes
+   - do not shadow, various shades, or 3-d the bars
+   - for negative zone, use grey background
+   - only use broken bar if there is a single outlier
+   - for horizontal bar, left is negative and right is positive
+   - always sort the bars from highest to lowest or alphabetically
+   
+
+8. Map
+   - Showing a scale of values from low to high, use hexagon heatmap
+   - When highlighting a change in a few states, use real map 
+   
+   
