@@ -8,12 +8,21 @@ Qualities of Good Visualization:
 1. Color choice
    - CVD friendly
    - color schemes: sequential, divergent, categorical, highlight, alert
+   - total vs partial: sequential color 
+   - don't make colors too transparent or thin such that people cannot notice it 
    
 2. Font
    - Style: Serif and Sanserif combination (title and subtitle)
+   - Sanserif is in general better and more friendly than Serif because the latter looks too formal
    - Bold/Underline/Italic - don't use in combination.
    - All caps or not? almost always no.
    - Use of subtitle and caption
+   
+3. Grid
+   - don't make gridlines too thick or have strong color
+   
+4. Title/Subtitle/Caption/Figure
+   - caption: mention data source whenever possible
 
 3. Numbers
   - Percentages vs Absolute
